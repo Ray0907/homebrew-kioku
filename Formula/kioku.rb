@@ -1,7 +1,6 @@
 class Kioku < Formula
   desc "Search every local coding-agent session down to the message, CJK included"
   homepage "https://github.com/Ray0907/kioku"
-  version "0.5.0"
   license "MIT"
 
   on_macos do
