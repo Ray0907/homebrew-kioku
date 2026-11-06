@@ -5,23 +5,23 @@ class Kioku < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/Ray0907/kioku/releases/download/v0.8.0/kioku_v0.8.0_darwin_arm64.tar.gz"
-      sha256 "7b0580ae15ac07d1a59dd46eb0c9c5fbb6c92ddd9c1b0e9f7434dafae9203c08"
+      url "https://github.com/Ray0907/kioku/releases/download/v0.9.1/kioku_v0.9.1_darwin_arm64.tar.gz"
+      sha256 "0f0dec1f5d47a162aca9573e8545b84a0abcb0300c47206a0cd4f0745e934465"
     end
     on_intel do
-      url "https://github.com/Ray0907/kioku/releases/download/v0.8.0/kioku_v0.8.0_darwin_amd64.tar.gz"
-      sha256 "a392bed6772652e1c60f0d3e0d1907e8bb87dfdadcddbf5b31832795d00c8b4f"
+      url "https://github.com/Ray0907/kioku/releases/download/v0.9.1/kioku_v0.9.1_darwin_amd64.tar.gz"
+      sha256 "04f5c5878e8b1d19f06eb7967f06ee85694a5c38f983091168223b9942e98c3f"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/Ray0907/kioku/releases/download/v0.8.0/kioku_v0.8.0_linux_arm64.tar.gz"
-      sha256 "e43381c8ddbd63825a664f27367a280644b1e93557dd3ccdd85d98622c26a2f8"
+      url "https://github.com/Ray0907/kioku/releases/download/v0.9.1/kioku_v0.9.1_linux_arm64.tar.gz"
+      sha256 "bbd00b198029caf9c234a50e6a8673e05839f0c8b7c1fa05e2447d5629353b7d"
     end
     on_intel do
-      url "https://github.com/Ray0907/kioku/releases/download/v0.8.0/kioku_v0.8.0_linux_amd64.tar.gz"
-      sha256 "55356b81f4a5d0519f3529a76f8e9a243e046a6a19aa2303e7d518b618fd1d2c"
+      url "https://github.com/Ray0907/kioku/releases/download/v0.9.1/kioku_v0.9.1_linux_amd64.tar.gz"
+      sha256 "8270ac83afaf7e4188e158f95af60d4253fe419df1f6f0c2b18ca6a6ddef7b9b"
     end
   end
 
